@@ -1,0 +1,5 @@
+*.log
+*cache*
+*.coverage
+.pytest_cache
+*.DS_Store
